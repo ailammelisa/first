@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melisa/Bureau/tribulle/main.cpp
+iostream
+-
+vector
+-
+chrono
+-
+ctime
+-
+random
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melisa/Bureau/trisort/main.cpp
+iostream
+-
+vector
+-
+chrono
+-
+ctime
+-
+random
+-
+algorithm
+-
+

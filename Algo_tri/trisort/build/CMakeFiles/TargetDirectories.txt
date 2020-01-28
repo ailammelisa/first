@@ -1,0 +1,3 @@
+/home/melisa/Bureau/trisort/build/CMakeFiles/rebuild_cache.dir
+/home/melisa/Bureau/trisort/build/CMakeFiles/main.dir
+/home/melisa/Bureau/trisort/build/CMakeFiles/edit_cache.dir
