@@ -1,5 +1,0 @@
-/home/melisa/AILAM.Melisa/sorting/tri/build/CMakeFiles/edit_cache.dir
-/home/melisa/AILAM.Melisa/sorting/tri/build/CMakeFiles/rebuild_cache.dir
-/home/melisa/AILAM.Melisa/sorting/tri/build/CMakeFiles/main3.dir
-/home/melisa/AILAM.Melisa/sorting/tri/build/CMakeFiles/main1.dir
-/home/melisa/AILAM.Melisa/sorting/tri/build/CMakeFiles/main2.dir

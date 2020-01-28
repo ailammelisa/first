@@ -1,0 +1,5 @@
+Dans cet algorithme j'ai fais 3 maniéres de faire un tri
+dans ce cas j'ai fais un algorithme de tri à bulle, tri rapide et tri sorting 
+j'ai fais une petite analyse pour voir la difference entre ces trois algorithme 
+dans ce guide j'ai pas mis les résultats de l'analyse  
+je vous laisse de le faire  lorsque vous aurez essayer ces algorithme    

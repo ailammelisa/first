@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/melisa/AILAM.Melisa/tribulle/main.cpp" "/home/melisa/AILAM.Melisa/tribulle/build/CMakeFiles/main.dir/main.cpp.o"
+  "/home/melisa/Mongit/first/Algo_tri/tribulle/main.cpp" "/home/melisa/Mongit/first/Algo_tri/tribulle/build/CMakeFiles/main.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

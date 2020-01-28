@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/trirapide.dir/main.cpp.o  -o trirapide 

@@ -1,3 +1,0 @@
-/home/melisa/Bureau/tribulle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/melisa/Bureau/tribulle/cmake-build-debug/CMakeFiles/main.dir
-/home/melisa/Bureau/tribulle/cmake-build-debug/CMakeFiles/edit_cache.dir
